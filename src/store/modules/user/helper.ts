@@ -16,7 +16,7 @@ export function defaultSetting(): UserState {
   return {
     userInfo: {
       avatar: 'https://www.86428642.xyz/avatar.jpg',
-      name: '王海涛',
+      name: '迅翔小君',
       description: 'view my <a href="https://blog.86428642.xyz/" class="text-blue-500" target="_blank" >blog</a>',
     },
   }
